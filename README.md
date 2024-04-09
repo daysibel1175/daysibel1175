@@ -1,4 +1,4 @@
-### Olá, eu sou Daysibel Cotiz Developer Backend !!
+### Olá, eu sou Daysibel Cotiz Desenvolverdor Web!!
 
 <div align="center">
   <a href="https://github.com/daysibel1175">
