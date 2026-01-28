@@ -1,6 +1,12 @@
 # 👩‍💻 Daysibel Cotiz  
 **Fullstack Developer | AI Enthusiast | Innovadora en Soluciones Digitales**
 
+**Choose your language / Escolha seu idioma / Elige tu idioma:**
+- [🇪🇸 Español](#-español)
+- [🇧🇷 Português](#-português)
+- [🇬🇧 English](#-english)
+
+
 Soy desarrolladora web con experiencia en **front-end y back-end**, actualmente profundizando en **Inteligencia Artificial Generativa** para potenciar mis habilidades y crear soluciones más inteligentes.  
 Recientemente desarrollé un **agente de IA** capaz de transformar cronogramas en comunicaciones claras y amigables para clientes, automatizando tareas que antes requerían copiar y redactar manualmente.  
 
